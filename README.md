@@ -1,4 +1,4 @@
-## Ola putos
+## Olá 
 - Estudante de `Análise de Desevolvimento de Sistema`
 - Buscando atuar como `Estagio`
 - Atualmente aprofundando meus conhecimentos em `Html e CSS`
