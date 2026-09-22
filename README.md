@@ -20,8 +20,8 @@
 
 Projeto | Descrição | Stack Principal |
 --- | --- |---|
-| [Em breve](link) Estou construindo um projeto em Linguagem C
-|[Em breve](link) Estou construindo um projeto em HTML 
+| [Em breve](link) | Estou construindo um projeto em Linguagem C | C |
+|[Em breve](link) | Estou construindo um projeto em HTML | HTML | 
 
 ## Como Falar Comigo
 - [Linkedln](https://www.linkedin.com/in/JanainaSantos)
