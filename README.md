@@ -20,8 +20,8 @@
 
 Projeto | Descrição | Stack Principal |
 --- | --- |---|
-| [Em breve](link) | Estou construindo um projeto em Linguagem C | C |
-|[Em breve](link) | Estou construindo um projeto em HTML | HTML | 
+| [Em breve](link) | Projeto desenvolvido para praticar os fundamentos da linguagem C, aplicando conceitos de lógica de programação, variáveis, estruturas condicionais e entrada e saída de dados. | C |
+|[Em breve](link) |Landing page de uma academia desenvolvida em HTML, com foco na estruturação e organização de uma página web. | HTML | 
 
 ## Como Falar Comigo
 - [Linkedln](https://www.linkedin.com/in/JanainaSantos)
